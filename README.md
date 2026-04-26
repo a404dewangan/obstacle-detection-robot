@@ -1,4 +1,4 @@
-# Obstacle Detection Robot 🚧🤖
+# Obstacle Detection Robot 🤖
 
 ## Description
 An ultrasonic sensor-based obstacle detection robot developed using O2 Labs block-based programming. 
